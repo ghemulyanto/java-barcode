@@ -1,3 +1,5 @@
+package com.barcode;
+
 import com.itextpdf.barcodes.Barcode128;
 import com.itextpdf.kernel.color.Color;
 import com.itextpdf.kernel.geom.PageSize;
